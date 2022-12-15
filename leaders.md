@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Amiya Behera](mailto:amiya.behera@owasp.org)
+* [Sai Swarup Das](mailto:sai.swarup-das@owasp.org)
+* [Janmejaya Swain](mailto:janmejaya.swain@owasp.org)
