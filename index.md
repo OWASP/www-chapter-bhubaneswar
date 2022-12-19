@@ -30,7 +30,7 @@ We welcome all the security & pentesters to this amazing community. You can join
 
 ### Like OWASP GUWAHATI for event updates and more on Facebook, Twitter & Instagram handles<br>
 **[OWASP Bhubaneswar Twitter Page](#)**<br>
-**[OWASP Bhubaneswar Instagram handle]([https://www.instagram.com/owasp_guwahati/](https://www.instagram.com/owasp_bhubaneswar)/)**
+**[OWASP Bhubaneswar Instagram handle](ttps://www.instagram.com/owasp_bhubaneswar)**
 
 
 ## Welcome
