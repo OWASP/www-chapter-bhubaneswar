@@ -1,7 +1,24 @@
-### Bhubaneswar Information
-* Provide Group Information
+<!--### Chapter Information
+* Chapter Region -->
+
+![image](https://user-images.githubusercontent.com/14135211/211533421-ed58a3ea-b4e7-49c8-b0fa-89e685ada7ec.png)
+
+# OWASP Bhubaneswar Chapter
 
 ### Social Links
-* [Meetup](#)
+ 
+* [MeetUp](https://www.meetup.com/OWASP-Bhubaneswar-Chapter/)
 
+* [Instagram](https://www.instagram.com/owasp_bhubaneswar/)
 
+* To Join the WhatsApp Group, Message Any of the Chapter Leads
+ 
+
+### Become speaker
+
+* [Speaker Agreement](https://www.owasp.org/index.php/Speaker_Agreement)
+
+### Useful Links
+* [Become a Member](https://www.owasp.org/index.php/Membership)
+
+* [Code of Conduct](https://www.owasp.org/index.php/Governance/Conference_Policies)
