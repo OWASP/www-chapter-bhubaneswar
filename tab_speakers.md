@@ -1,5 +1,5 @@
 ---
-title: speakers
+title: Speakers
 displaytext: Speakers
 layout: null
 tab: true
