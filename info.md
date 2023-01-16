@@ -1,7 +1,7 @@
 <!--### Chapter Information
 * Chapter Region -->
 
-![image](https://user-images.githubusercontent.com/14135211/211533421-ed58a3ea-b4e7-49c8-b0fa-89e685ada7ec.png)
+
 
 # OWASP Bhubaneswar Chapter
 
