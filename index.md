@@ -8,70 +8,45 @@ meetup-group:
 
 ---
 
-{% include menu.md currentPage="home" %}  
 
-## Welcome to OWASP Bhubaneswar
-OWASP Bhubaneswar local chapter is a community of aspirants and enthusiasts in the Information Security domain to help improve application security, build a community, interact through various events and meetups, and represent the Odisha infosec community globally. Here we discuss various security & vulnerabilities of web application, API, Mobile & other devices. We share tools and techniques related to web application security. This chapter is managed by [Amiya Behera](mailto:amiya.behera@owasp.org) , [Sai Swarup Das](mailto:sai.swarup-das@owasp.org) and [Janmejaya Swain](mailto:janmejaya.swain@owasp.org)
-
-## Participation
-To be a SPEAKER at OWASP Guwahati Chapter,simply review the [speaker agreement](/www-policy/legal/speaker-agreement) and then contact our chapter leaders with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
-
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
----------------------
-{% include chapter_events.html group=page.meetup-group %}
+<div style='color:black;'>
+<h2 id="welcome">Welcome to OWASP Bhubaneswar</h2>
+<div>
+OWASP Bhubaneswar local chapter is a community of aspirants and enthusiasts in the Information Security domain to help improve application security, build a community, interact through various events and meetups, and represent the Odisha infosec community globally. Here we discuss various security & vulnerabilities of web application, API, Mobile & other devices. We share tools and techniques related to web application security. This chapter is managed by <a href="mailto:amiya.behera@owasp.org">  Amiya Behera </a> , <a href="mailto:janmejaya.swain@owasp.org"> Janmejaya Swain </a> and <a href="mailto:sai.swarup-das@owasp.org"> Sai Swarup Das </a>. <br> 
+</div>
+<br>
+<br>
+OWASP is a non-profit organization to improve apllication security. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. Our mission is to enrich the comunity of application security community in the region-Bhubaneswar.
+ 
 
 
-We welcome all the security & pentesters to this amazing community. You can join us through our various social media handles.
+<h2>Speaking at OWASP Bhubaneswar Chapter Events</h2>
 
-### Like OWASP Bhubaneswar for event updates and more on Twitter & Instagram handles<br>
-**[OWASP Bhubaneswar Twitter Page](#)**<br>
-**[OWASP Bhubaneswar Instagram handle](https://www.instagram.com/owasp_bhubaneswar/)**
+<h4>Call For Speakers</h4>
 
----
+<p>Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Bhubaneswar Chapter events - please review and agree with the <a href="https://owasp.org/www-policy/legal/speaker-agreement"> OWASP Speaker Agreement </a> and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via <a href="mailto:amiya.behera@owasp.org"> Amiya Behera </a> :</p>
 
-<!-- You should delete this comment
+<h2 id="next-meetingevents">Next Meeting/Event(s)</h2>
 
-Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+<p>OWASP Bhubaneswar Chapter meetings are posted on our MeetUp Page:</p>
 
-{front matter for this file}
+<!-- <p>Please visit <a href="https://owasp.org"> our next meeting </a>. </p> -->
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
+<h2 id="updates-on-social-media-and-mailing-list">Updates on Social Media and Mailing List</h2>
+<p>Please follow OWASP Bhubaneswar Chapter on our social accounts </p>
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+<h3 id="bhubaneswar-information">Bhubaneswar Information</h3>
+<ul>
+  <li><a href="https://www.owasp.org/index.php/Membership">Become a Member</a></li>
+  <li><a href="https://groups.google.com/all-groups">Join Our Mailing List</a></li>
+  <li><a href="https://owasp.org/donate">Local Chapter Support</a></li>
+  <li><a href="https://owasp.org/www-policy/legal/speaker-agreement">Speaker Agreement</a></li>
+  <li><a href="https://owasp.org/www-policy/operational/conferences-events.html">Code of Conduct</a></li>
+</ul>
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Next Meeting/Event
----------------------
-{% comment %}
-{% include chapter_events.html group=page.meetup-group %}
-{% endcomment %}
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+<h3 id="social-links">Social Links</h3>
+<ul>
+  <li><a href="https://www.instagram.com/owasp_bhubaneswar/">Instagram</a></li>
+</ul>
