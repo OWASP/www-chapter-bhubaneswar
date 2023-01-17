@@ -10,7 +10,7 @@ meetup-group:
 
 {% include menu.md currentPage="home" %}  
 
-## Welcome to OWASP Netherlands!
+## Welcome to OWASP Bhubaneswar
 OWASP Bhubaneswar local chapter is a community of aspirants and enthusiasts in the Information Security domain to help improve application security, build a community, interact through various events and meetups, and represent the Odisha infosec community globally. Here we discuss various security & vulnerabilities of web application, API, Mobile & other devices. We share tools and techniques related to web application security. This chapter is managed by [Amiya Behera](mailto:amiya.behera@owasp.org) , [Sai Swarup Das](mailto:sai.swarup-das@owasp.org) and [Janmejaya Swain](mailto:janmejaya.swain@owasp.org)
 
 ## Participation
