@@ -7,7 +7,7 @@ level: 0
 region: Asia
 meetup-group: 
 country: India
-postal-code: 
+postal-code: 751024
 
 ---
 
