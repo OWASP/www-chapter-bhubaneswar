@@ -10,8 +10,6 @@
 * [MeetUp](https://www.meetup.com/OWASP-Bhubaneswar-Chapter/)
 
 * [Instagram](https://www.instagram.com/owasp_bhubaneswar/)
-
-* To Join the WhatsApp Group, Message Any of the Chapter Leads
  
 
 ### Become speaker
