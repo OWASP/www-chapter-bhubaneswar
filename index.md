@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Bhubaneswar
-tags: Bhubaneswar
+tags: bhubaneswar
 region: Asia
 meetup-group:
 
