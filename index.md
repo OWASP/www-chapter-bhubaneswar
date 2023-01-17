@@ -24,7 +24,7 @@ OWASP is a non-profit organization to improve apllication security. All of our p
 
 <h4>Call For Speakers</h4>
 
-<p>Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Bhubaneswar Chapter events - please review and agree with the <a href="https://owasp.org/www-policy/legal/speaker-agreement"> OWASP Speaker Agreement </a> and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via <a href="mailto:amiya.behera@owasp.org"> Amiya Behera </a> :</p>
+<p>Call For Speakers is open - if you would like to present a talk on Application Security at future OWASP Bhubaneswar Chapter events - please review and agree with the <a href="https://owasp.org/www-policy/legal/speaker-agreement"> OWASP Speaker Agreement </a> and send the proposed talk title, abstract and speaker bio to the Chapter Leader <a href="mailto:amiya.behera@owasp.org"> Amiya Behera </a> :</p>
 
 <h2 id="next-meetingevents">Next Meeting/Event(s)</h2>
 
