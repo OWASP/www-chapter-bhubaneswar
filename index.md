@@ -3,8 +3,11 @@
 layout: col-sidebar
 title: OWASP Bhubaneswar
 tags: bhubaneswar
+level: 0
 region: Asia
-meetup-group:
+meetup-group: 
+country: India
+postal-code: 
 
 ---
 
