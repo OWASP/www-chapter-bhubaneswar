@@ -52,4 +52,5 @@ OWASP is a non-profit organization to improve apllication security. All of our p
 <h3 id="social-links">Social Links</h3>
 <ul>
   <li><a href="https://www.instagram.com/owasp_bhubaneswar/">Instagram</a></li>
+ <li><a href="https://twitter.com/OWASP_BBSR">Twitter</a></li>
 </ul>
