@@ -33,7 +33,7 @@ OWASP is a non-profit organization to improve apllication security. All of our p
 
 <p>OWASP Bhubaneswar Chapter meetings are posted on our MeetUp Page:</p>
 
-<!-- <p>Please visit <a href="https://owasp.org"> our next meeting </a>. </p> -->
+Please go to our Meetup page for next meeting: https://www.meetup.com/owasp-bhubaneswar/
 
 
 
