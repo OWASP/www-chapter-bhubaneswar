@@ -7,9 +7,11 @@
 
 ### Social Links
  
-* [MeetUp](https://www.meetup.com/OWASP-Bhubaneswar-Chapter/)
+* [MeetUp](https://www.meetup.com/owasp-bhubaneswar/)
 
 * [Instagram](https://www.instagram.com/owasp_bhubaneswar/)
+
+* [Twitter](https://twitter.com/OWASP_BBSR)
  
 
 ### Become speaker
