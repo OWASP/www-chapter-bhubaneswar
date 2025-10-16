@@ -1,0 +1,28 @@
+leaders:
+  - name: Amiya Behera
+    email: amiya.behera@owasp.org
+    github: CyberBeta
+  - name: Sai Swarup Das
+    email: sai.swarup-das@owasp.org
+    github: saidas45
+  - name: Janmejaya Swain
+    email: janmejaya.swain@owasp.org
+    github: JanmejayaSwainOfficial
+location:
+  country: India
+  country_code: IN
+  region: Odisha
+  city: Khurda
+  postal_code: '751024'
+  latitude: 20.307246821633427
+  longitude: 85.81837622694442
+name: OWASP Bhubaneswar
+repositories:
+  - name: www-chapter-bhubaneswar
+    url: https://github.com/OWASP/www-chapter-bhubaneswar
+    description: OWASP Foundation Web Repository
+tags:
+  - bhubaneswar
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-bhubaneswar
